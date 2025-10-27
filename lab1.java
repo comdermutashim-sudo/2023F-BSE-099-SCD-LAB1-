@@ -9,5 +9,8 @@ public class lab1 {
     }
     static int sum(int num1,int num2){
         return num1+num2;        
+
+        // this change was made in branch v2
     }
 }
+
